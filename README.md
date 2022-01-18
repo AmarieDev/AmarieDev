@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammar
-- 👀 I’m interested in fullstack develpment
-- 🌱 I’m currently learning frontend develpment
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 Reach me via mresh.dev@gmail.com
 
